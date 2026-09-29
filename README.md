@@ -28,17 +28,17 @@ Aprendo construyendo: mi experiencia viene de proyectos propios y académicos do
 
 ## 🚀 Proyectos destacados
 
-### [SmartPlan UNSA](https://github.com/TU-USUARIO/NOMBRE-DEL-REPO)
+### [SmartPlan UNSA](https://github.com/gllerenamo/smart-plan-unsa)
 Sistema para la gestión y seguimiento del diseño curricular universitario.
 **Mi participación:** backend, autenticación, autorización, roles y permisos, y arquitectura del sistema.
 **Tecnologías:** NestJS, PostgreSQL, Docker *(ajusta según tu stack real)*.
 
-### [NOMBRE DEL PROYECTO 2](https://github.com/TU-USUARIO/NOMBRE-DEL-REPO)
-Descripción breve de qué hace y qué problema resuelve (1 o 2 líneas).
-**Tecnologías:** FastAPI, MongoDB, embeddings *(ajusta según tu proyecto)*.
+### [Steam Hybrid search](https://github.com/DiegoLlerena13/steam-hybrid-search.git)
+Buscador de videojuegos que combina bases de datos vectoriales con búsqueda híbrida (semántica y por palabras clave) para obtener resultados más relevantes en catálogos como el de Steam.
+**Tecnologías:** Python, embeddings, base de datos vectorial *(completa con las que usaste)*.
 
-### [NOMBRE DEL PROYECTO 3 (videojuego educativo)](https://github.com/TU-USUARIO/NOMBRE-DEL-REPO)
-Videojuego educativo desarrollado con Unity y C#.
+### [EcoGuardian (videojuego educativo)](https://github.com/DiegoLlerena13/Proyecto-Final---Computaci-n-Gr-fica.git)
+Videojuego educativo desarrollado con Unity y C# cuidado de animales y aprendizaje de especies.
 **Tecnologías:** Unity, C#.
 
 ---
@@ -53,4 +53,4 @@ Videojuego educativo desarrollado con Unity y C#.
 
 ## 📫 Contacto
 
-¿Quieres conversar sobre un proyecto u oportunidad? Escríbeme por [LinkedIn](https://www.linkedin.com/in/TU-USUARIO) o a **TU-CORREO@ejemplo.com**.
+¿Quieres conversar sobre un proyecto u oportunidad? Escríbeme por [LinkedIn](https://www.linkedin.com/in/diego-renato-llerena-tellez-27200a2ab) o a **dllerenat@unsa.edu.pe**.
